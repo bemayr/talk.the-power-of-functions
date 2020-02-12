@@ -17,4 +17,4 @@ You can get the relative line numbers using `editor.lineNumbers: "relative"` and
 The slides are available under [`./slides`](./slides).
 
 ## Presentations
-- *12.02.2019:* [stahlstadt.js // Stahlstadt.js #24](https://www.meetup.com/stahlstadt-js/events/268136639/) [:movie_camera:](asap)
+- *06.02.2020:* [stahlstadt.js // Stahlstadt.js #24](https://www.meetup.com/stahlstadt-js/events/268136639/) [:movie_camera:](asap)
